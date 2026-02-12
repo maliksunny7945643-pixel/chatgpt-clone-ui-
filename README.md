@@ -15,6 +15,7 @@ The project focuses only on UI/UX design and layout structure.
 - HTML5
 - CSS3
 - JavaScript
+![ChatGPT Clone Preview](screenshot.png)
 
 ## 👨‍💻 Author
 Haider Ali
